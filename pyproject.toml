@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "pypypy"
 version = "0.1.0"
-description = ""
+description = "Simple multiplayer shooter."
 authors = ["Damian Cyntler <damian@cyntler.com>"]
 
 [tool.poetry.scripts]
